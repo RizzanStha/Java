@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WeekTwoLabSecond
+comment0.text=\r\n\ WAP\ to\ swap\ two\ numbers\ without\ using\ temporary\ variable.\r\n\r\n\ @author\ (Rizss)\r\n\ @version\ (npv\ 17)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MyFirstClass
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MyFirstClass\ here.\r\n\r\n\ @author\ (RIZS)\r\n\ @version\ (1.0.1)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b
+comment2.target=void\ add(int,\ int)
+comment3.params=a\ b
+comment3.target=void\ subtract(int,\ int)
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrintTheCube
+comment0.text=\r\n\ 3.\ WAP\ to\ print\ the\ cube\ of\ the\ given\ number\ up\ to\ the\ 10th\ position.\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

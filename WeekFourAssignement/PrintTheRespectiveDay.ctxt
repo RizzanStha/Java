@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=PrintTheRespectiveDay
+comment0.text=\r\n\ 2.\ WAP\ to\ print\ the\ respective\ day\ for\ the\ number\ using\ a\ switch\ statement.\r\nExpected\ output\ when\ the\ number\ is\ 1\:\r\nMonday\r\nExpected\ output\ when\ the\ number\ is\ 7\:\r\nSunday\r\nExpected\ output\ when\ the\ number\ is\ 8\:\r\nUnexpected\ Input\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
